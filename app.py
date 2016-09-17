@@ -41,4 +41,4 @@ def make_payment(user_id):
 
 
 if __name__ == "__main__":
-    app.run()
+    app.run(port=8080)
